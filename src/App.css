@@ -1,0 +1,72 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* App Container */
+.App {
+  text-align: center;
+  background: rgb(0, 0, 0);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 0 1rem 5px #4caf50;
+}
+
+/* Header */
+.App-header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #4caf50;
+}
+
+.App-header p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+/* Counter Display */
+.App-header h2 {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  color: #333;
+}
+
+/* Buttons */
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Limit Message */
+.App-header p:last-child {
+  font-size: 1rem;
+  color: #e74c3c;
+  font-weight: bold;
+}
