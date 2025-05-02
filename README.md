@@ -1,6 +1,6 @@
 # Click Counter App
 
-![Visit the Click Counter App](https://emma-obelenge.github.io/click_counter_app/)
+Visit the Click Counter App [here](https://emma-obelenge.github.io/click_counter_app/)
 
 A simple and intuitive app to count clicks with ease. Perfect for tracking repetitive tasks, counting events, or just for fun!
 
@@ -23,7 +23,7 @@ A simple and intuitive app to count clicks with ease. Perfect for tracking repet
 
 ## 📸 Screenshots
 
-<img src="link_to_image" width="50px" height="30px">
+<img src="https://github.com/emma-obelenge/click_counter_app/blob/19e2474460da4741bc852f72b7e04cdbfe3e1d42/src/homeScreen.png" width="50px" height="30px">
 
 ## 📦 Installation
 
